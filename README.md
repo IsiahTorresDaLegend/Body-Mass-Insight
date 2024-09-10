@@ -3,4 +3,5 @@ This is a program that calculates an adult's Body Mass Index (BMI) and displays 
 
 
 
-![image](https://github.com/user-attachments/assets/99b4275e-9109-4459-ba5e-1d0a51a83506)
+![image](https://github.com/user-attachments/assets/f4a12152-5b0c-4ff1-9842-a27a8fbf890a)
+
